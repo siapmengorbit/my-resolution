@@ -2,11 +2,14 @@ Roadmap Front End
 
 - HTML
 - CSS
+ * Bootstrap
 - Javascript
   * ES6
   * Framework JS
     - Vue
     - React
+    - Angular
+  * Node JS
 - Data Structure Fundamental
 - Git
 - Python
